@@ -1,0 +1,9 @@
+include ':app',':base-module:basekit',':base-module:system-module:systemkit',
+        ':base-module:third-module:thirdkit',':base-module:third-module:zxing',
+        ':base-module:third-module:weiboSDK', ':base-module:third-module:pushlib',
+        ':base-module:function-module:citypickerview', ':base-module:function-module:pickerview',
+        ':base-module:function-module:customrefreshlayout', ':base-module:function-module:imageloader',
+        ':base-module:function-module:toast_dialog', ':base-module:function-module:citylocation',
+        ":base-module:function-module:pictureselect",":base-module:function-module:amapservice",
+        ':base-module:function-module:functionkit',':base-module:function-module:customtitleview',
+        ':base-module:function-module:selector', ':base-module:function-module:calendar'
